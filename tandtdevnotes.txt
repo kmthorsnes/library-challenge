@@ -1,0 +1,6 @@
+2 lib files: 
+person.rb
+library.rb
+
+1 spec files:
+library_spec.rb
