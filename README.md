@@ -2,7 +2,10 @@
 
 ##Ruby version
 Use Ruby version 2.3.1
-
+```
+$ rvm use 2.3.1
+$ bunde
+```
 *****************************************
 ##Library Challenge
 ###Week 1 Ruby challenge
