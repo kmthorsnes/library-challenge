@@ -1,3 +1,9 @@
+# Fleur and Kalles notes
+
+##Ruby version
+Use Ruby version 2.3.1
+
+*****************************************
 ##Library Challenge
 ###Week 1 Ruby challenge
 
