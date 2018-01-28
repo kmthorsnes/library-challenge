@@ -4,7 +4,7 @@
 Use Ruby version 2.3.1
 ```
 $ rvm use 2.3.1
-$ bunde
+$ bundle 
 ```
 *****************************************
 ##Library Challenge
